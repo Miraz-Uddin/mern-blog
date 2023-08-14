@@ -1,0 +1,7 @@
+Server side
+    github repository link: https://github.com/Miraz-Uddin/mern-blog/tree/main/server
+    Deployed URL: https://mern-blog-server-by-miraz.netlify.app
+    
+Client side
+    github repository link: https://github.com/Miraz-Uddin/mern-blog/tree/main/client
+    Deployed URL: https://mern-blog-client-by-miraz.netlify.app
